@@ -16,4 +16,4 @@ while True:
     for doctor in Doctors_Avaiable:
         print(doctor)
     doctor_name = input("Enter the name of the doctor you want to book an appointment with: ")
-    book_appointment(patient_name, doctor_name) 
+    book_appointment(patient_name, doctor_name)
